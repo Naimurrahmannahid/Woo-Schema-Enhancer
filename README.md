@@ -2,6 +2,8 @@
 
 A lightweight WooCommerce plugin to fix Google Merchant Center schema warnings by adding missing structured data fields: `shippingDetails` and `hasMerchantReturnPolicy`.
 
+![Woo Schema Enhancer](https://ibb.co.com/LzvWyv81)
+
 ---
 
 ## 🧩 Features
